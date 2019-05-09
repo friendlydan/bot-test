@@ -22,6 +22,9 @@ func GetSubSlice(start int, slice []int) []int {
 	return slice[start:len(slice)]
 }
 
+func ASuperCoolFunc() {
+}
+
 func AnotherGetSubSlice(start int, slice []int) []int {
 	// a comment
 }
